@@ -1,15 +1,22 @@
 {
   "name": "bawl-e",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "Bot for the bawlsec irc",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:BawlSec/bawl-e.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BawlSec/bawl-e/issues"
+  },
   "scripts": {
     "dev": "nodemon app.js",
     "test": "standard",
     "fix-codestyle": "standard --fix"
   },
   "author": "Alexander Meesters <ameesters@pm.me>",
-  "license": "ISC",
+  "license": "BSD-3-Clause",
   "dependencies": {
     "irc-upd": "^0.10.0",
     "node-fetch": "^2.6.0"
