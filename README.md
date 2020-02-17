@@ -5,7 +5,7 @@ A subliminal IRC Bot, brought to you by BAWLSEC for your IRC delight :)
 
 ## USAGE
 ```bash
-git clone <this repo>
+git clone git@github.com:BawlSec/bawl-e.git
 cd bawle
 mv settings.example.js settings.js
 nano settings.js
