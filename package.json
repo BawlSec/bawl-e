@@ -1,0 +1,21 @@
+{
+  "name": "bawl-e",
+  "version": "1.0.0",
+  "description": "Bot for the bawlsec irc",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "standard",
+    "fix-codestyle": "standard --fix"
+  },
+  "author": "Alexander Meesters <ameesters@pm.me>",
+  "license": "ISC",
+  "dependencies": {
+    "irc-upd": "^0.10.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "standard": "^14.3.1"
+  }
+}
