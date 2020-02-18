@@ -12,6 +12,7 @@
   },
   "scripts": {
     "dev": "nodemon app.js",
+    "start": "node app.js",
     "test": "standard",
     "fix-codestyle": "standard --fix"
   },
