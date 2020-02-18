@@ -6,9 +6,10 @@ A subliminal IRC Bot, brought to you by BAWLSEC for your IRC delight :)
 ## USAGE
 ```bash
 git clone git@github.com:BawlSec/bawl-e.git
-cd bawle
+cd bawl-e
 mv settings.example.js settings.js
 nano settings.js
+npm install
 npm start
 ```
 
@@ -29,10 +30,3 @@ npm start
 No warranty whatsoever
 
 Use responsible, we cannot be held responsible for your retardisms, and you cannot hold us responsible for our retardisms.
-
-
-
-
-
-
-
