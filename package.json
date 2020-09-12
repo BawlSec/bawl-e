@@ -20,7 +20,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "irc-upd": "^0.10.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2",
